@@ -1,0 +1,9 @@
+main()
+{
+int a=2;
+int b=3;
+if(a<=b)
+{
+/*a is less than or equal to b*/
+}
+}
