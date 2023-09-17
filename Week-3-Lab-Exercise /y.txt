@@ -1,0 +1,22 @@
+ main : identifier
+(
+)
+{ 
+ int : keyword 
+ a : identifier 
+2: number
+; 
+ int : keyword 
+ b : identifier 
+3: number
+; 
+ if : keyword 
+(
+ a : identifier
+ relational operator : 
+==
+ b : identifier
+)
+{
+}
+}
